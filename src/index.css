@@ -60,7 +60,7 @@ textarea {
   width: 200px;
   height: 200px;
   margin: 10px;
-  background-color: rgb(205, 205, 205);
+  background-color: rgb(224, 224, 224);
   border: 1px solid rgb(39, 39, 39);
   box-shadow: 2px 2px 3px lightgrey;
   border-radius: 5px;
@@ -78,13 +78,13 @@ textarea {
 }
 
 .note__title {
-  font-size: 16px;
+  font-size: 18px;
   font-weight: bold;
 }
 
 .note__description {
   flex-grow: 1;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .note__delete {
@@ -92,7 +92,7 @@ textarea {
   top: 0px;
   right: 0px;
   font-size: 20px;
-  color: lightgrey;
+  color: rgb(59, 59, 59);
   padding: 5px;
 }
 
